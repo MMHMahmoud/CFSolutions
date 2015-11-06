@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Codeforces Round #329 (Div. 2)\B. Anton and Lines.cpp">
+    <ClCompile Include="Codeforces Round #283 (Div. 2)\A. Minimum Difficulty.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
