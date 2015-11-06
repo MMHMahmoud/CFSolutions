@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Codeforces Round #283 (Div. 2)\B. Secret Combination.cpp" />
+    <ClCompile Include="Codeforces Round #283 (Div. 2)\C. Removing Columns.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{93A3AFFD-C6F2-40D7-AC61-FA6C8578E682}</ProjectGuid>
